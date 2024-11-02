@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 ### 🌱 I’m currently learning ...
 I'm delving into React fundamentals, focusing on components and custom hooks, and working with Vite.js and Next.js.
 
@@ -12,17 +10,16 @@ I’m contributing to a project at the U.S. Department of the Treasury, focusing
 Projects in artificial intelligence, machine learning, or cybersecurity. I'm also open to opportunities in digital outreach or technical roles that bridge my computer science and English backgrounds.
 
 ### 🤔 I’m looking for help with ...
- I'm also interested in learning more about advanced data analytics in the context of robotics.
+I'm interested in learning more about advanced data analytics in the context of robotics.
 
 ### 💬 Ask me about ...
 AI applications in government, my experience with robotics research, or my love for creating art and video games.
 
 ### 📫 How to reach me ...
-You can reach me via email or through my email vhaddad@bu.edu.
+You can reach me via email at vhaddad@bu.edu.
 
 ### 😊 Pronouns: ...
 She/Her
 
 ### ⚡ Fun fact: ...
 I'm a longtime player of Star Stable, and I love traveling in an Anthony Bourdain type of way – immersing myself in the culture of every place I visit!
--->
