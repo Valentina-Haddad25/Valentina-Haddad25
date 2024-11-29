@@ -16,7 +16,7 @@ I'm interested in learning more about advanced data analytics in the context of 
 AI applications in government, my experience with robotics research, or my love for creating art and video games.
 
 ### 📫 How to reach me ...
-You can reach me via email at vhaddad@bu.edu.
+You can reach me via email at vhaddad@bu.edu or via LinkedIn https://www.linkedin.com/in/valentinahaddad/.
 
 ### 😊 Pronouns: ...
 She/Her
