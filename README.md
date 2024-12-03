@@ -10,7 +10,7 @@ I’m contributing to a project at the U.S. Department of the Treasury, focusing
 Projects in artificial intelligence, machine learning, or cybersecurity. I'm also open to opportunities in digital outreach or technical roles that bridge my computer science and English backgrounds.
 
 ### 🤔 I’m looking for help with ...
-I'm interested in learning more about advanced data analytics in the context of robotics.
+I'm interested in learning more about advanced data analytics!
 
 ### 💬 Ask me about ...
 AI applications in government, my experience with robotics research, or my love for creating art and video games.
