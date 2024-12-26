@@ -22,4 +22,4 @@ You can reach me via email at vhaddad@bu.edu or via LinkedIn https://www.linkedi
 She/Her
 
 ### ⚡ Fun fact: ...
-I'm a longtime player of Star Stable, and I love traveling in an Anthony Bourdain type of way – immersing myself in the culture of every place I visit!
+I'm a video game fanatic, and I love traveling in an Anthony Bourdain type of way – immersing myself in the culture of every place I visit!
