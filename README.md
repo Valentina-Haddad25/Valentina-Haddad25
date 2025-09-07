@@ -4,7 +4,7 @@
 I'm delving into React fundamentals, focusing on components and custom hooks, and working with Vite.js and Next.js.
 
 ### 🔭 I’m currently working on ...
-I’m contributing to a project at the U.S. Department of the Treasury, focusing on cybersecurity and critical investment programs, as well as a machine learning project for PCB data analysis with Cadence Design Systems through the Break Through Tech AI program at MIT.
+Working as a Business Analyst but Im spedning my free time coding on Unity/ learning unreal engine
 
 ### 🤝 I’m looking to collaborate on ...
 Projects in artificial intelligence, machine learning, or cybersecurity. I'm also open to opportunities in digital outreach or technical roles that bridge my computer science and English backgrounds.
